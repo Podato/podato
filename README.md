@@ -1,5 +1,5 @@
 <h1 align="center">Hi, i'm Podato</h1>
-<h3 align="center">the compiler tells me to do things.</h3>
+<h3 align="center">The compiler tells me to do things.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=podato&style=flat-square" alt="Podato" /> </p>
 
